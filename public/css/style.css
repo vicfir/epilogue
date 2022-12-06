@@ -175,4 +175,26 @@ footer .dottedLine {
   text-decoration: underline dotted 1px;
 }
 
+main {
+  padding: 0 20px;
+}
+
+header {
+  padding: 200px 20px;
+}
+header hr {
+  width: 300px;
+}
+
+#sect2 .rowSect2 {
+  flex-direction: column;
+  align-items: center;
+}
+#sect2 .rowSect2 .card {
+  width: 300px;
+}
+#sect2 .rowSect2 .imgSect2 {
+  width: 300px;
+}
+
 /*# sourceMappingURL=style.css.map */
