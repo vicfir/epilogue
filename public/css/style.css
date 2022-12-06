@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
 body {
   margin: 0;
+  background-color: #f4f4f4;
 }
 
 header {
   background-image: url("../img/banner.jpg");
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
-  background-size: 100%;
+  background-size: cover;
   text-align: center;
   padding: 200px 0;
 }
